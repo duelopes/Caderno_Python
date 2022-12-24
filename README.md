@@ -1,6 +1,5 @@
 # Caderno_Python
-"Caderno" de cursos feitos em Python (Plataforma Alura)
-A ideia principal desse repositório é armazenar os códigos que aprendo nos cursos de Python.
+"Caderno" de cursos feitos em Python (Plataforma Alura), a ideia principal desse repositório é armazenar os códigos que aprendo nos cursos de Python.
 
 **Em Python para Data Science temos:**
 
