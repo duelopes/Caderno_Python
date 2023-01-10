@@ -7,7 +7,7 @@
 - Conceitos de variáveis, funções, listas, condicionais e imports;
 - Gerar gráfico no Matplotlib.
 
-**Em Python para Data Science Numpy temos:**
+**Em Python Data Science Numpy temos:**
 
 - Qual é o ambiente do cientista de dados;
 - As características da linguagem Python;
