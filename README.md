@@ -1,13 +1,13 @@
 # Caderno_Python
 "Caderno" de cursos feitos em Python com ajuda da Plataforma Alura, e a ideia principal desse repositório é armazenar os códigos que aprendo nos cursos de Python.
 
-**Em Python para Data Science, temos:**
+**Em Python_para_Data Science, temos:**
 
 - Primeiros códigos em Python;
 - Conceitos de variáveis, funções, listas, condicionais e imports;
 - Gerar gráfico no Matplotlib.
 
-**Em Python_Data_Science_Numpy, temos:**
+**Em python_data_science_numpy, temos:**
 
 - Qual é o ambiente do cientista de dados;
 - As características da linguagem Python;
