@@ -37,4 +37,4 @@
 - Como importar dados e trabalhar com os dataframes;
 - Análise e tratamento de dados;
 - Seaborn para criação de diferentes gráficos;
-- Técnicas gráficas e quantitativas, buscando a obtenção de informações relevantes
+- Técnicas gráficas e quantitativas, buscando a obtenção de informações relevantes.
