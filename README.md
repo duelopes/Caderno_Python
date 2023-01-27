@@ -18,8 +18,23 @@
 
 **Em Python_para_Data Science_Pandas, temos:**
 
-- Como funcionam tuplas e listas
-- A biblioteca dos cientistas de dados: Pandas
-- Encapsulamento de código em funções
-- Pacotes para organizar o código
-- Built-in Functions do Python
+- Como funcionam tuplas e listas;
+- A biblioteca dos cientistas de dados: Pandas;
+- Encapsulamento de código em funções;
+- Pacotes para organizar o código;
+- Built-in Functions do Python.
+
+**Na pasta Curso Pandas, temos:**
+
+- Como importar dados e exportar dataframes;
+- Limpar e tratar dados faltantes;
+- Remover outliers e criar novas variáveis;
+- Como selecionar e gerar frequências dos dados;
+- Como usar Python Pandas, Matplotlib, Jupyter e Anaconda.
+
+**No projeto EDA-Gorjetas, temos:**
+
+- Como importar dados e trabalhar com os dataframes;
+- Análise e tratamento de dados;
+- Seaborn para criação de diferentes gráficos;
+- Técnicas gráficas e quantitativas, buscando a obtenção de informações relevantes
