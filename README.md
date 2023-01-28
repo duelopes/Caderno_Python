@@ -38,3 +38,11 @@
 - Análise e tratamento de dados;
 - Seaborn para criação de diferentes gráficos;
 - Técnicas gráficas e quantitativas, buscando a obtenção de informações relevantes.
+
+**No projeto Times_Series, temos:**
+
+- As principais técnicas de análise de Séries temporais;
+- Principais elementos presentes nas time series;
+- Função de autocorrelação nos dados;
+- Média móvel para normalizar os dados;
+- Pandas, Seaborn e Matplotlib.
